@@ -1,6 +1,6 @@
 {
     "Name": "Perceptual decisions result from the continuous accumulation of memory and sensory evidence",
-    "License": "",
+    "License": "CC0",
     "Authors": [
         "Bornstein, A.M.",
         "Aly, M.",
@@ -15,6 +15,6 @@
     "ReferencesAndLinks": [
         "https://www.biorxiv.org/content/biorxiv/early/2018/08/09/186817.full.pdf"
     ],
-    "DatasetDOI": "",
+    "DatasetDOI": "10.18112/openneuro.ds001614.v1.1.0",
     "BIDSVersion": "1.1.1"
 }
